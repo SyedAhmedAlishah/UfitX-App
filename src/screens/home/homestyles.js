@@ -15,6 +15,7 @@ const styles = StyleSheet.create({
     alignSelf: "center",
     resizeMode: "contain",
     borderRadius: 10,
+    margin: 10,
   },
 });
 export { styles };
